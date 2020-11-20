@@ -1,0 +1,14 @@
+.logo{
+    background-color: green;
+    color: white !important; /*!important overrides other styles*/
+    padding: 10px;
+}
+
+.Bigimage{
+    width: 350px;
+    float: left;
+}
+
+.Smallimage{
+    width: 250px;
+}
