@@ -1,5 +1,5 @@
 .logo{
-    background-color: green;
+    background-color: black;
     color: white !important; /*!important overrides other styles*/
     padding: 10px;
 }
@@ -11,4 +11,11 @@
 
 .Smallimage{
     width: 250px;
+}
+.bar-background{
+    background-color:blueviolet !important;
+}
+
+.compimage{
+    width: 700px;
 }
