@@ -19,3 +19,8 @@
 .compimage{
     width: 700px;
 }
+
+.header-text{
+    color:blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
