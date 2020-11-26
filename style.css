@@ -18,6 +18,7 @@
 
 .compimage{
     width: 700px;
+    float: left;
 }
 
 .header-text{
